@@ -1,6 +1,8 @@
 package com.sg.classes;
 
 import java.util.Set;
+
+import com.sg.handlers.FileHandler;
 /**
  * Main class is the entry point of the program
  * this class will execute the application
